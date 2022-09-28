@@ -22,7 +22,7 @@
 1. Variables (o'zgaruvchilar) var , let , const , (difference)
 2. "use strict"
 3. appropriation operators (o'zlashtirish operatorlari)
-4.comparison operators (taqqoslash operatorlari)
+4. comparison operators (taqqoslash operatorlari)
 5. Object Math 
 
 <hr>
