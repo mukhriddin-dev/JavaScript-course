@@ -20,10 +20,19 @@
 
 # Day 2
 1. Variables (o'zgaruvchilar) var , let , const , (difference)
+2. Data types
+  - String
+  - Number
+  - Boolean
+  - Undefined
+  - null
+  - BigInt(9007199254740991)
+  - Symbol('Hello JavaScript')
 2. "use strict"
 3. appropriation operators (o'zlashtirish operatorlari)
 4. comparison operators (taqqoslash operatorlari)
 5. Object Math 
+6. type conversions
 
 <hr>
 
@@ -64,16 +73,86 @@
 - String.toUpperCase();
 - String.toLowerCase();
 - String.substring(x,y);
+- String.search();
+- String.trim();
+- String.match(); 
+- charAt(n)
+
+<hr>
+
+ # Day 5
+
+ 1. Object 
+ 2. to bulild methods
+ 3. Object methods
+    - Object.keys(testScore);   // gives all keys
+    - Object.values(testScore);  // gives all values
+    - Object.entries(testScore)  
+
+    
+
+4. Locating DOM elements using selectors
+
+   - getElementsByTagName()
+
+   - getElementsByClassName()
+
+   - getElementById()
+
+   - querySelector()
+
+   - querySelectorAll() 
 
 
 
+5. HTML DOM Element style Property
+
+<hr>
+
+ # Day 6
+
+1. Events
+2. addEvenetListener / on (difference)
+3.  JavaScript DOM events
+
+Mouse events:
+
+- click
+- dblclick
+
+- mouseover
+- mouseout
+
+- mouseup
+- mouseup
+
+Keyboard events:
+
+- Keydown
+- Keyup
+- Kuypress
+
+Form events:
+
+ - focus
+ - submit
+ - blur
+ - change
+- input
+
+Scroll & window Event
+
+- scroll
+- DOMContentLoaded
+- load
+
+<hr>
 
 
+# Day 7
 
-
-
-
-
-
-
-
+1.  setAttribute()
+2.  getAttribute()
+3.  practice (toggle menu)
+4. setInterval()  / clearInterval( )
+5. setTimeOut() / clearTimeout( )
