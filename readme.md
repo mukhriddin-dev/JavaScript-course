@@ -156,3 +156,22 @@ Scroll & window Event
 3.  practice (toggle menu)
 4. setInterval()  / clearInterval( )
 5. setTimeOut() / clearTimeout( )
+
+<hr>
+
+# Day 8
+
+1. setInterval()  / clearInterval( )
+2. setTimeOut() / clearTimeout( )
+3. JavaScript Date Objects  [new Date()]
+4. LIVE HOUR 
+4. classList 🔥🔥
+   
+   - add()
+   - remove()
+   - toggle()
+   - contains()
+
+5. PRACTICE SLIDER 🔥🔥
+
+# Day 9
