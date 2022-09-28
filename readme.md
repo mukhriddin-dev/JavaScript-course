@@ -164,8 +164,8 @@ Scroll & window Event
 1. setInterval()  / clearInterval( )
 2. setTimeOut() / clearTimeout( )
 3. JavaScript Date Objects  [new Date()]
-4. LIVE HOUR 
-4. classList 🔥🔥
+4. LIVE HOUR 🔥🔥
+4. classList 
    
    - add()
    - remove()
