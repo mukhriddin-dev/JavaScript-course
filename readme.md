@@ -1,4 +1,4 @@
-#  Muhriddin Kohodiev 24 y.o Senior software engineer at 
+#  Muhriddin Kohodiev 24 y.o  software engineer at 
 <br>
 <img src="https://najotedu.t8s.ru/Files/najotedu.t8s.ru/Photos/serwyrsu.ovh.png"  width="300"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Olcha.uz_-_logo.svg/2560px-Olcha.uz_-_logo.svg.png" width="300">
