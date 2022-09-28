@@ -173,5 +173,6 @@ Scroll & window Event
    - contains()
 
 5. PRACTICE SLIDER 🔥🔥
+6. Create Dynamic Element In Javascript
 
 # Day 9
