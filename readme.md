@@ -44,8 +44,8 @@
 - Arguments
 - Default parametr
 3. Array
-- Array simple methods
-Array simple methods
+- ### Array simple methods
+
 
 - .push(4); 
 - .pop();
@@ -57,7 +57,7 @@ Array simple methods
 - .indexOf('b'); 
 - .includes('c'); 
 
-3. String methods
+3. ### String methods
 
 - String.length
 - String.trim()
