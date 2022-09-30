@@ -175,6 +175,7 @@ Scroll & window Event
 5. PRACTICE SLIDER 🔥🔥
 6. Create Dynamic Element In Javascript
 <hr>
+
 # Day 9
 
 1. Create Dynamic Element In Javascript
