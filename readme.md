@@ -198,4 +198,26 @@ Scroll & window Event
 5. practice
 <hr>
 
+# Day 10
+
+1. Create Dynamic Element In Javascript
+2. Higher order functions
+   - Array Method .reduce()
+   - Array Method .forEach()
+   - Array Method .filter()
+   - Array Method .map()
+
+
+3. Extra methods
+   - Array Method .reverse()
+   - Array Method .find()
+   - Array Method .sort()
+
+   - numArray.sort((a, b) => a - b); // For ascending sort
+   - numArray.sort((a, b) => b - a); // For descending sort
+
+4. Custom selector function (Plugin)
+5. practice
+<hr>
+
 
