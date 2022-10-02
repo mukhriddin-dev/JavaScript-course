@@ -205,24 +205,32 @@ Scroll & window Event
 
 # Day 10
 
-1. Create Dynamic Element In Javascript
-2. Higher order functions
-   - Array Method .reduce()
-   - Array Method .forEach()
-   - Array Method .filter()
-   - Array Method .map()
+1. Mavzularni qaytarish
+2. Function Scope, Block Scope, Global Scope
+3. Template tag
+4. RegExp() & ASCII code
+  - https://regexr.com/
+  - https://www.ascii-code.com/ 
+  - **Higher order functions** 
+<hr>
 
 
-3. Extra methods
-   - Array Method .reverse()
-   - Array Method .find()
-   - Array Method .sort()
+# Day 11
 
-   - numArray.sort((a, b) => a - b); // For ascending sort
-   - numArray.sort((a, b) => b - a); // For descending sort
+1. **Movies app** (practice)
+2. Find duplicates in an array using javaScript
+3. **findElement** function
+4. eventDelegation
+5. dataset
 
-4. Custom selector function (Plugin)
-5. practice
+<hr>
+
+# Day 12
+
+1. Takrorlash
+2. . . .
+3. . . . . .
+
 <hr>
 
 

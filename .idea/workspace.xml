@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bace2cac-b137-4893-aa58-d78dfcddef0e" name="Changes" comment="lesson10 added" />
+    <list default="true" id="bace2cac-b137-4893-aa58-d78dfcddef0e" name="Changes" comment="lesson10 added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +55,7 @@
       <updated>1664650399429</updated>
       <workItem from="1664650404036" duration="734000" />
       <workItem from="1664651153617" duration="209000" />
+      <workItem from="1664699053180" duration="1104000" />
     </task>
     <task id="LOCAL-00001" summary="lesson10 added">
       <created>1664651285453</created>
