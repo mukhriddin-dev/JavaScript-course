@@ -221,7 +221,7 @@ Scroll & window Event
 2. Find duplicates in an array using javaScript
 3. **findElement** function
 4. eventDelegation
-5. dataset
+5. dataset . . .
 
 <hr>
 
