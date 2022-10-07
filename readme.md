@@ -1,11 +1,11 @@
 <img src="https://telegra.ph/file/f7c89c5eade284fd63ab3.png" width="800">
 <h1 style="text-align:center"> Muhriddin Kohodiev 24 y.o  software engineer at</h1> 
 <br>
-<div style="margin:30px auto; width:550px; display:flex; justify-content:center;">
+
 <img src="https://najotedu.t8s.ru/Files/najotedu.t8s.ru/Photos/serwyrsu.ovh.png"  width="200" style="display:inline-block"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Olcha.uz_-_logo.svg/2560px-Olcha.uz_-_logo.svg.png" width="200" style="display:inline-block;margin-left:40px;">
-<img src="https://seriusuz.vercel.app/assets/logo.4eefd1ab.png" width="200" height="40" style="display:inline-block;margin-left:40px;">
-</div>
+<img src="https://seriusuz.vercel.app/assets/logo.4eefd1ab.png" width="200" height="40" style="display:inline-block;margin-left:60px;">
+
 <hr>
 
 
