@@ -5,7 +5,7 @@
 <img src="https://najotedu.t8s.ru/Files/najotedu.t8s.ru/Photos/serwyrsu.ovh.png"  width="200" style="display:inline-block"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Olcha.uz_-_logo.svg/2560px-Olcha.uz_-_logo.svg.png" width="200" style="display:inline-block;">
 
-<img src="https://seriusuz.vercel.app/assets/logo.4eefd1ab.png"   style="display:inline-block;">
+<img src="https://seriusuz.vercel.app/assets/logo.4eefd1ab.png"   style="display:inline-block;"  width="200">
 
 <hr>
 
