@@ -19,34 +19,14 @@
 
 <hr>
 
-# Day 1
-#### JavaScriptga kirish
-1. JavaScript nima ? 
-2. JavaScriptni HTML ga bog'lash
-3. alert() , prompt() , confirm() , document.write() , innerHTML 
-4. matematik operatorlar 
-<hr>
-
-# Day 2
-1. Variables (o'zgaruvchilar) var , let , const , (difference)
-2. Data types
-  - String
-  - Number
-  - Boolean
-  - Undefined
-  - null
-  - BigInt(9007199254740991)
-  - Symbol('Hello JavaScript')
-2. "use strict"
-3. appropriation operators (o'zlashtirish operatorlari)
-4. comparison operators (taqqoslash operatorlari)
-5. Object Math 
-6. type conversions
+# Day 13
+1. Mavzularni takrorlash (umummiy)
+2. Object  , to built methods
+  - Object.keys(testScore); // gives all keys
+  - Object.values(testScore); // gives all values
+  - Object.entries(testScore)
+3. Javascript ‘this’ keyword (Context)
 
 <hr>
 
-# Day 3
-
-
-
-
+# Day 14
