@@ -236,4 +236,27 @@ Scroll & window Event
 
 <hr>
 
+<hr>
+
+# Day 13
+1. Mavzularni takrorlash (umummiy)
+2. Object  , to built methods
+  - Object.keys(testScore); // gives all keys
+  - Object.values(testScore); // gives all values
+  - Object.entries(testScore)
+3. Javascript ‘this’ keyword (Context)
+
+<hr>
+
+# Day 14
+1. **Movies app** (practice)
+2. Find duplicates in an array using javaScript
+3. **findElement** function
+4. eventDelegation
+5. dataset . . .
+6. Template tag
+7. RegExp() & ASCII code
+  - https://regexr.com/
+  - https://www.ascii-code.com/ 
+
 
