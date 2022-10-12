@@ -263,10 +263,11 @@ Scroll & window Event
 2. dataset . . .
 3. Template tag
 4. shallow copy vs deep copy
-5. localStorage
-   — setItem()
-   — getItem()
-   — removeItem()
-   — clear()
-   — "storage"
-6. JSON (stringify, parse);
+5. rest % spread operator 
+6. localStorage
+  - setItem()
+  - getItem()
+  - removeItem()
+  - clear()
+  - "storage"
+7. JSON (stringify, parse);
