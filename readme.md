@@ -252,11 +252,21 @@ Scroll & window Event
 1. **Movies app** (practice)
 2. Find duplicates in an array using javaScript
 3. **findElement** function
-4. eventDelegation
-5. dataset . . .
-6. Template tag
-7. RegExp() & ASCII code
+4. RegExp() & ASCII code
   - https://regexr.com/
   - https://www.ascii-code.com/ 
 
 
+
+# Day 15
+1. eventDelegation
+2. dataset . . .
+3. Template tag
+4. shallow copy vs deep copy
+5. localStorage
+   — setItem()
+   — getItem()
+   — removeItem()
+   — clear()
+   — "storage"
+6. JSON (stringify, parse);
