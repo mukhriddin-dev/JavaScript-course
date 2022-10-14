@@ -272,7 +272,7 @@ Scroll & window Event
   - "storage"
 7. JSON (stringify, parse);
 
- - <img src="https://telegra.ph/file/969c879f8ef2e930bec3c.png" width="4600">
+ - <img src="https://telegra.ph/file/969c879f8ef2e930bec3c.png" width="600">
  -
 
 # Day 16
