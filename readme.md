@@ -273,7 +273,7 @@ Scroll & window Event
 7. JSON (stringify, parse);
 
  - <img src="https://allma.si/blog/wp-content/uploads/2020/11/how-to-clone-objects-in-javascript.png" width="400">
- - <img src="" width="400" style="object-fit:cover;">
+ -
 
 # Day 16
 
@@ -286,6 +286,9 @@ What is the difference between synchronous and asynchronous code in JavaScript ?
  - rejected
 
 3. fetch
+
+### CallBack ?
+ <img src="https://telegra.ph/file/df6d89e674ebc224f831a.png" width="400">
 
 ### Async and Sync difference 
 
