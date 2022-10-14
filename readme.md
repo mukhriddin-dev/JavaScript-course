@@ -273,7 +273,7 @@ Scroll & window Event
 7. JSON (stringify, parse);
 
  - <img src="https://allma.si/blog/wp-content/uploads/2020/11/how-to-clone-objects-in-javascript.png" width="400">
- - <img src="https://allma.si/blog/wp-content/uploads/2020/11/how-to-clone-objects-in-javascript.png" width="400">
+ - <img src="https://allma.si/blog/wp-content/uploads/2020/11/how-to-clone-objects-in-javascript.png" width="400" style="object-fit:cover;">
 
 # Day 16
 
