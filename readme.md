@@ -287,17 +287,22 @@ What is the difference between synchronous and asynchronous code in JavaScript ?
 
 3. fetch
 
+<hr>
 ### CallBack ?
  <img src="https://telegra.ph/file/df6d89e674ebc224f831a.png" width="600">
 
+<hr>
 ### Async and Sync difference 
 
 <img width="600" src="https://aaryanadil.com/synchronous-and-asynchronous-javascript-examples/images/synchronous-vs-asynchronous.jpg">
+
+<hr>
 
 ### Practices async function
 
 <img width="600" src="https://adrianmejia.com/images/synchronous-asynchronous-javascript.png">
 
+<hr>
 
 ### Promise   (  
   - Pending
