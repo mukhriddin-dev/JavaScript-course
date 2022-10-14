@@ -271,3 +271,16 @@ Scroll & window Event
   - clear()
   - "storage"
 7. JSON (stringify, parse);
+
+# Day 16
+
+1. CallBack function
+2. **Synchronous and Asynchronous**
+What is the difference between synchronous and asynchronous code in JavaScript ?
+2. Promise 
+ - Pending
+ - fullfiled
+ - rejected
+
+3. fetch
+
