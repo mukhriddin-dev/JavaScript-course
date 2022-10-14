@@ -284,3 +284,12 @@ What is the difference between synchronous and asynchronous code in JavaScript ?
 
 3. fetch
 
+### Async and Sync difference 
+
+<img width="500" src="https://aaryanadil.com/synchronous-and-asynchronous-javascript-examples/images/synchronous-vs-asynchronous.jpg">
+
+### Practices async function
+
+<img width="500" src="https://adrianmejia.com/images/synchronous-asynchronous-javascript.png">
+
+
