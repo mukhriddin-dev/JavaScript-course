@@ -273,7 +273,7 @@ Scroll & window Event
 7. JSON (stringify, parse);
 
  - <img src="https://telegra.ph/file/969c879f8ef2e930bec3c.png" width="600">
- -
+
 
 # Day 16
 
@@ -297,5 +297,16 @@ What is the difference between synchronous and asynchronous code in JavaScript ?
 ### Practices async function
 
 <img width="600" src="https://adrianmejia.com/images/synchronous-asynchronous-javascript.png">
+
+
+### Promise   (  
+  - Pending
+  - fullfiled
+  - rejected
+  
+  )
+
+  <img width="600" src="https://javascript.info/article/promise-basics/promise-resolve-reject.svg">
+
 
 
