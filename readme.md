@@ -317,32 +317,25 @@ What is the difference between synchronous and asynchronous code in JavaScript ?
 # Day 17  
 
 1. Takrorlash
-2. fetch 
-3. CRUD 
+2. PRAY TIME API (amaliyot)
+3. API so'rovlari:
 
+  - Bugungi namoz vatlarini olish uchun: https://islomapi.uz/api/present/day?region=Toshkent
+
+  - Shu hafta uchun namoz taqvimi olish uchun: https://islomapi.uz/api/present/week?region=Toshkent
+
+  - Bir kun uchun namoz taqvimini olish uchun: https://islomapi.uz/api/daily?region=Toshkent&month=4=4&day=5
+
+ Bir oylik namoz taqvimini olish uchun: https://islomapi.uz/api/monthly?region=Toshkent&month=4
 <hr>
-### CRUD ?
+
+
+# Day 18
+1. C R U D
+## CRUD ?
  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5IllY723--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/a3exuz06e9h212pandfr.png" width="600">
-
-<hr>
-### Async and Sync difference 
-
-<img width="600" src="https://aaryanadil.com/synchronous-and-asynchronous-javascript-examples/images/synchronous-vs-asynchronous.jpg">
+  <img src="https://miro.medium.com/max/1400/1*pJRJgw1Vj-1MjhtQFZAZRA.png" width="600">
 
 <hr>
 
-### Practices async function
-
-<img width="600" src="https://adrianmejia.com/images/synchronous-asynchronous-javascript.png">
-
-<hr>
-
-### Promise   (  
-  - Pending
-  - fullfiled
-  - rejected
-  
-  )
-
-  <img width="600" src="https://javascript.info/article/promise-basics/promise-resolve-reject.svg">
 
