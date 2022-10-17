@@ -314,4 +314,35 @@ What is the difference between synchronous and asynchronous code in JavaScript ?
   <img width="600" src="https://javascript.info/article/promise-basics/promise-resolve-reject.svg">
 
 
+# Day 17  
+
+1. Takrorlash
+2. fetch 
+3. CRUD 
+
+<hr>
+### CRUD ?
+ <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5IllY723--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/a3exuz06e9h212pandfr.png" width="600">
+
+<hr>
+### Async and Sync difference 
+
+<img width="600" src="https://aaryanadil.com/synchronous-and-asynchronous-javascript-examples/images/synchronous-vs-asynchronous.jpg">
+
+<hr>
+
+### Practices async function
+
+<img width="600" src="https://adrianmejia.com/images/synchronous-asynchronous-javascript.png">
+
+<hr>
+
+### Promise   (  
+  - Pending
+  - fullfiled
+  - rejected
+  
+  )
+
+  <img width="600" src="https://javascript.info/article/promise-basics/promise-resolve-reject.svg">
 
