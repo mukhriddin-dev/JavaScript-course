@@ -22,7 +22,7 @@
 #### JavaScriptga kirish
 1. JavaScript nima ? 
 2. JavaScriptni HTML ga bog'lash
-3. alert() , prompt() , confirm() , document.write() , innerHTML 
+3. alert() , prompt() , confirm() , document.write() , innerHTML , Template literal  
 4. matematik operatorlar 
 <hr>
 
@@ -47,22 +47,22 @@
 # Day 3
 
 1. Conditional operator "if else"
-2. Ternary operator 
-3. "switch" statement
-4. Loops: while and for ( while, do..while and for(..;..;..) )
-5. Function and function types
+2. logical operators (&& and || or )
+3. Ternary operator 
+4. "switch" statement
+5. Loops: while and for ( while, do..while and for(..;..;..) )
+
 
 <hr>
 
 # Day 4
-
-1. Function  arrow func / func expression / func declaration
-2. function parametrs
-- Arguments
+2. Function and function types
+2. Function  arrow func / func expression / func declaration
+3. function parametrs
 - Default parametr
-3. Array
+- SyntaxError, ReferenceError, TypeError
+1. Array
 - ### Array simple methods
-
 
 - .push(4); 
 - .pop();
@@ -93,13 +93,15 @@
  1. Object 
  2. to bulild methods
  3. Object methods
+   
     - Object.keys(testScore);   // gives all keys
     - Object.values(testScore);  // gives all values
     - Object.entries(testScore)  
+    - Object.fromEntries(testScore) 
 
     
 
-4. Locating DOM elements using selectors
+1. Locating DOM elements using selectors
 
    - getElementsByTagName()
 
@@ -112,16 +114,16 @@
    - querySelectorAll() 
 
 
-
-5. HTML DOM Element style Property
+2. HTML DOM Element style Property
 
 <hr>
 
  # Day 6
 
-1. Events
-2. addEvenetListener / on (difference)
-3.  JavaScript DOM events
+1. HTML DOM Element style Property
+2. Events
+3. addEvenetListener / on (difference)
+4.  JavaScript DOM events
 
 Mouse events:
 
@@ -133,6 +135,7 @@ Mouse events:
 
 - mouseup
 - mouseup
+- mousemove
 
 Keyboard events:
 
@@ -168,90 +171,86 @@ Scroll & window Event
 <hr>
 
 # Day 8
-
-1. setInterval()  / clearInterval( )
-2. setTimeOut() / clearTimeout( )
-3. JavaScript Date Objects  [new Date()]
-4. LIVE 🕙 🔥🔥
-4. classList 
-   
+1. JavaScript Date Objects  [new Date()]
+2. LIVE 🕙 
+3. classList 
    - add()
    - remove()
    - toggle()
    - contains()
 
-5. PRACTICE SLIDER 🔥🔥
-6. Create Dynamic Element In Javascript
+4. PRACTICE SLIDER ☑️
+5. Create Dynamic Element In Javascript 📌
 <hr>
 
 # Day 9
 
-1. Create Dynamic Element In Javascript
+1. Create Dynamic Element In Javascript 📌
 2. Higher order functions
     - Array Method .reduce() 
     - Array Method .forEach() 
     - Array Method .filter() 
     - Array Method .map()
-    
-
-3. Extra methods
-   - Array Method .reverse()
-   - Array Method .find()
-   - Array Method .sort()
-
-   - numArray.sort((a, b) => a - b); // For ascending sort
-   - numArray.sort((a, b) => b - a); // For descending sort
-
-4. Custom selector function (Plugin)
-5. practice
+  
+3. Custom selector function (Plugin)
+4. practice
+   
 <hr>
 
 # Day 10
 
-1. Mavzularni qaytarish
-2. Function Scope, Block Scope, Global Scope
-3. Template tag
-4. RegExp() & ASCII code
-  - https://regexr.com/
-  - https://www.ascii-code.com/ 
-  - **Higher order functions** 
+1. Extra methods
+   - Array Method .reverse()
+   - Array Method .find()
+   - Array Method .sort()
+   - numArray.sort((a, b) => a - b); // For ascending sort
+   - numArray.sort((a, b) => b - a); // For descending sort
+
+2. Mavzularni qaytarish
+3. Function Scope, Block Scope, Global Scope
+
+   
 <hr>
 
 
 # Day 11
 
-1. **Movies app** (practice)
-2. Find duplicates in an array using javaScript
-3. **findElement** function
-4. eventDelegation
-5. dataset . . .
+1. Template tag
+2. RegExp() & ASCII code
+  - https://regexr.com/
+  - https://www.ascii-code.com/ 
+
+
 
 <hr>
 
 # Day 12
 
-1. Takrorlash
-2. . . .
-3. . . . . .
-
+1. Optional chaining (?.)
+2. Takrorlash
+3. Tab content (amaliyot)
+   
 <hr>
 
 <hr>
 
 # Day 13
 1. Mavzularni takrorlash (umummiy)
-2. Object  , to built methods
-  - Object.keys(testScore); // gives all keys
-  - Object.values(testScore); // gives all values
-  - Object.entries(testScore)
-3. Javascript ‘this’ keyword (Context)
+2. dataset attribute
+3.  **Movies app** (Loyihani boshlash)
+4. Normalize data
+5. Find duplicates in an array using javaScript (e)
+6. Dynamic category
+
+
 
 <hr>
 
 # Day 14
-1. **Movies app** (practice)
-2. Find duplicates in an array using javaScript
-3. **findElement** function
+1. eventDelegation
+1. Movies app Sorting (funksiyalarni qo'shish)
+2. **findElement** function
+3. Film ma'lumotlarini modalga chiqarish
 4. RegExp() & ASCII code
   - https://regexr.com/
   - https://www.ascii-code.com/ 
@@ -259,24 +258,27 @@ Scroll & window Event
 
 
 # Day 15
-1. eventDelegation
-2. dataset . . .
-3. Template tag
-4. shallow copy vs deep copy
-5. rest % spread operator 
-6. localStorage
+1. localStorage
   - setItem()
   - getItem()
   - removeItem()
   - clear()
   - "storage"
-7. JSON (stringify, parse);
+2. Movies app ga Bookmark qo'shish
+3. JSON (stringify, parse);
 
- - <img src="https://telegra.ph/file/969c879f8ef2e930bec3c.png" width="600">
 
 
 # Day 16
 
+1. Template tag
+2. shallow copy vs deep copy
+3. rest & spread operator 
+4. Understanding Javascript 'this' keyword (Context)
+ - <img src="https://telegra.ph/file/969c879f8ef2e930bec3c.png" width="600">
+<hr>
+
+# Day 17
 1. CallBack function
 2. **Synchronous and Asynchronous**
 What is the difference between synchronous and asynchronous code in JavaScript ?
@@ -314,7 +316,7 @@ What is the difference between synchronous and asynchronous code in JavaScript ?
   <img width="600" src="https://javascript.info/article/promise-basics/promise-resolve-reject.svg">
 
 
-# Day 17  
+# Day 18 
 
 1. Takrorlash
 2. PRAY TIME API (amaliyot)
@@ -331,6 +333,15 @@ What is the difference between synchronous and asynchronous code in JavaScript ?
 
 
 # Day 18
+1. C R U D
+## CRUD ?
+ <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5IllY723--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/a3exuz06e9h212pandfr.png" width="600">
+  <img src="https://miro.medium.com/max/1400/1*pJRJgw1Vj-1MjhtQFZAZRA.png" width="600">
+
+<hr>
+
+
+# Day 19
 1. C R U D
 ## CRUD ?
  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5IllY723--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/a3exuz06e9h212pandfr.png" width="600">
