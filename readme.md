@@ -1,5 +1,5 @@
 <img src="https://telegra.ph/file/f7c89c5eade284fd63ab3.png" width="800">
-<h1 style="text-align:center"> Muhriddin Kohodiev 24 y.o  software engineer at</h1> 
+<h1 style="text-align:center"> Muhriddin Kohodiev 24 y.o Senior  software engineer at</h1> 
 <br>
 
 <img src="https://najotedu.t8s.ru/Files/najotedu.t8s.ru/Photos/serwyrsu.ovh.png"  width="200" style="display:inline-block"> 
@@ -45,25 +45,28 @@
 <hr>
 
 # Day 3
+0. Template literal 
+1. Truthy and Falthy
+2. Conditional operator "if else"
+3. logical operators (&& and || or )
+4. Ternary operator 
+5. "switch" statement
 
-1. Conditional operator "if else"
-2. logical operators (&& and || or )
-3. Ternary operator 
-4. "switch" statement
-5. Loops: while and for ( while, do..while and for(..;..;..) )
 
 
 <hr>
 
 # Day 4
+1. Loops: while and for ( while, do..while and for(..;..;..) )
 2. Function and function types
-2. Function  arrow func / func expression / func declaration
-3. function parametrs
+3. Function  arrow func / func expression / func declaration
+4. function parametrs
 - Default parametr
 - SyntaxError, ReferenceError, TypeError
-1. Array
-- ### Array simple methods
 
+- ### Array simple methods
+1. Array
+   
 - .push(4); 
 - .pop();
 - .shift();
@@ -74,7 +77,7 @@
 - .indexOf('b'); 
 - .includes('c'); 
 
-3. ### String methods
+1. ### String methods
 
 - String.length
 - String.trim()
@@ -84,12 +87,13 @@
 - String.search();
 - String.trim();
 - String.match(); 
+- String.split();
 - charAt(n)
 
 <hr>
 
  # Day 5
-
+ 0. Prmitive vs Reference value (difference)
  1. Object 
  2. to bulild methods
  3. Object methods
@@ -101,7 +105,8 @@
 
     
 
-1. Locating DOM elements using selectors
+0. Locating DOM elements using selectors
+  
 
    - getElementsByTagName()
 
@@ -112,9 +117,10 @@
    - querySelector()
 
    - querySelectorAll() 
-
-
+ 
+1. HTMLCollection and NodeList 
 2. HTML DOM Element style Property
+3. CSSstyleDeclaration Object ?
 
 <hr>
 
@@ -123,7 +129,8 @@
 1. HTML DOM Element style Property
 2. Events
 3. addEvenetListener / on (difference)
-4.  JavaScript DOM events
+4. Event object and object keys (object types)
+5.  JavaScript DOM events
 
 Mouse events:
 
@@ -149,7 +156,7 @@ Form events:
  - submit
  - blur
  - change
-- input
+ - input
 
 Scroll & window Event
 
@@ -172,7 +179,7 @@ Scroll & window Event
 
 # Day 8
 1. JavaScript Date Objects  [new Date()]
-2. LIVE 🕙 
+2. amaliyot (timer) 🕙 
 3. classList 
    - add()
    - remove()
@@ -187,12 +194,13 @@ Scroll & window Event
 
 1. Create Dynamic Element In Javascript 📌
 2. Higher order functions
-    - Array Method .reduce() 
-    - Array Method .forEach() 
-    - Array Method .filter() 
-    - Array Method .map()
   
-3. Custom selector function (Plugin)
+    - Array Method .forEach() 
+    - Array Method .map()
+    - Array Method .filter() 
+    - Array Method .reduce() 
+  
+3. Custom selector function (Utils files)
 4. practice
    
 <hr>
@@ -207,7 +215,7 @@ Scroll & window Event
    - numArray.sort((a, b) => b - a); // For descending sort
 
 2. Mavzularni qaytarish
-3. Function Scope, Block Scope, Global Scope
+3. Function Scope, Block Scope, Global Scope , Local scope
 
    
 <hr>
@@ -220,6 +228,7 @@ Scroll & window Event
   - https://regexr.com/
   - https://www.ascii-code.com/ 
 
+3. previousElementSibling, nextElementSibling, parentNode, closest()
 
 
 <hr>
@@ -230,8 +239,6 @@ Scroll & window Event
 2. Takrorlash
 3. Tab content (amaliyot)
    
-<hr>
-
 <hr>
 
 # Day 13
@@ -248,13 +255,12 @@ Scroll & window Event
 
 # Day 14
 1. eventDelegation
-1. Movies app Sorting (funksiyalarni qo'shish)
-2. **findElement** function
-3. Film ma'lumotlarini modalga chiqarish
-4. RegExp() & ASCII code
+2. Movies app Sorting (funksiyalarni qo'shish)
+3. **findElement** function
+4. Film ma'lumotlarini modalga chiqarish
+5. RegExp() & ASCII code
   - https://regexr.com/
   - https://www.ascii-code.com/ 
-
 
 
 # Day 15
@@ -270,8 +276,6 @@ Scroll & window Event
 
 
 # Day 16
-
-1. Template tag
 2. shallow copy vs deep copy
 3. rest & spread operator 
 4. Understanding Javascript 'this' keyword (Context)
